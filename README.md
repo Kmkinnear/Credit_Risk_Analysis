@@ -58,6 +58,6 @@ The overview of this analysis was to use multiple machine learning models to tra
 
 ![image](https://user-images.githubusercontent.com/110848660/213284706-505a0082-bef3-427b-9dab-5baa333ecea9.png)
 
-All six of our models performed differently as you can see from the data above. We can see that our two Ensemble models performed better than our first four resampling models by providing the most balanced numbers. Specifically, the Easy Ensemble model produced the most consistent across the five measurements that we used. 
+All six of our models performed differently as you can see from the data above. We can see that our two Ensemble models performed better than our first four resampling models by providing the most balanced numbers. Specifically, the Easy Ensemble model produced the best results across the five measurements that we used. 
 
 One downside of all the models is that they all produced a low percentage for precision with high-risk loans. We did not have any model that produced anything greater than 10%. I would recommend trying to come up with more data to use in our analysis to see if we can get the precision numbers up or explore using some different models that may be more precise in detecting risky loans.
